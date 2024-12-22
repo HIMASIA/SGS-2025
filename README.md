@@ -1,3 +1,4 @@
-How To Install on your own device:
-
-git clone <link_of_github_repo>
+## Cara Instalasi
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/
