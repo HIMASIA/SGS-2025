@@ -4,5 +4,5 @@
    git clone https://github.com/
 2.cd nama_folder
 
-```bash
+   ```bash
    npx tailwindcss init
